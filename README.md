@@ -1,2 +1,0 @@
-# tomd
-Test repository
